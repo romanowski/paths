@@ -1,0 +1,9 @@
+	<info organisation="org.scalatest" module="scalatest-finders-patched" revision="0.9.12" status="release" publication="20200804130420">
+	<info organisation="org.jetbrains" module="nailgun-patched" revision="1.0.1" status="release" publication="20150717164842">
+	<info organisation="org.jetbrains" module="sbt-structure-core_2.12" revision="2018.2.1+4-88400d3f" status="integration" publication="20180919230059">
+	<info organisation="org.jetbrains" module="sbt-ide-settings" revision="1.0.0" status="release" publication="20170818164749" e:sbtVersion="1.0" e:scalaVersion="2.12">
+  <info organisation="org.jetbrains" module="sbt-declarative-visualizer" revision="3.7.4" status="release" publication="20200523002153" e:sbtVersion="1.0" e:scalaVersion="2.12">
+  <info organisation="org.jetbrains" module="sbt-declarative-core" revision="3.7.4" status="release" publication="20200523002204" e:sbtVersion="1.0" e:scalaVersion="2.12">
+  <info organisation="org.jetbrains" module="sbt-declarative-packaging" revision="3.7.4" status="release" publication="20200523002217" e:sbtVersion="1.0" e:scalaVersion="2.12">
+  <info organisation="org.jetbrains" module="sbt-idea-plugin" revision="3.7.4" status="release" publication="20200523002217" e:sbtVersion="1.0" e:scalaVersion="2.12">
+	<info organisation="com.eed3si9n" module="sbt-buildinfo" revision="0.7.0" status="integration" publication="20170719030607" e:sbtVersion="1.0" e:scalaVersion="2.12">
